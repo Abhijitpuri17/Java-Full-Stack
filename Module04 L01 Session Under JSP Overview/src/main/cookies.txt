@@ -1,0 +1,9 @@
+	1) It is a small chunk of memory in the browser for specific web-site
+	2) Text data gets exchanged between server and browser  
+	
+	setCookie()
+	getCookie()
+	
+	Used to:
+	   1) Personalize user experience
+	   2) keep track of user preferences   

@@ -1,0 +1,6 @@
+* When user logs in a web application a session is created in server in session pool
+
+* Session ID is stored inside cookie of web browser
+
+* For any request server and browser will interact, server will serve after checking session info
+

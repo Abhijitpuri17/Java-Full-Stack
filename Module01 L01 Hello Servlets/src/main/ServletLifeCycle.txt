@@ -1,0 +1,8 @@
+All JSP and Servlet programs will be executed inside a Servlet container
+
+When web app starts to get executed:
+   1) Loading Servlet class
+   2) Create instance of Servlet
+   3) Call servlet's init() method
+   4) service() method is called for every request
+   5) After all requests are completed, destroy() method is called

@@ -1,0 +1,4 @@
+
+M : MODEL (interaction with databases)
+V : VIEW  (User can interact with it)
+C : CONTROLLER (processing on data i.e. business logic)

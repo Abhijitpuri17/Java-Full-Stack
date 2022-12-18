@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Module13 L02 Integrate Template With Project">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="Module13_L02_Integrate_Template_With_Project"/>
+        <property name="java-output-path" value="/Module13 L02 Integrate Template With Project/build/classes"/>
+    </wb-module>
+</project-modules>

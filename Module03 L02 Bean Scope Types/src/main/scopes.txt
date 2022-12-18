@@ -1,0 +1,10 @@
+
+1) Session : For each web browser session, an independent bean will be created
+
+2) Application : This is widest scope. Only one bean is created and used throughout the application
+
+3) Page: Specific to that particular page. One bean for one page
+
+4) Request: one bean per request object. We can forward this request
+  
+

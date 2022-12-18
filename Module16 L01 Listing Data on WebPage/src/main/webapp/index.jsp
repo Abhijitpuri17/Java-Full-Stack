@@ -1,0 +1,15 @@
+
+<%@ include file = "include/header.jsp" %>
+
+<div class="container mtb">
+	<div class="row">
+		<div class="col-lg-6">
+			<h2>Home</h2>
+			
+			<p>We are a team of dedicated people who perform intense research, pragmatic planning and come up with easily understandable and quality courses for student around the world. We follow an ongoing process of quality analysis by meticulously considering and improving our work by taking the feedback from the users. We are fantastic content maker and fabulous presenters. we are StudyEasy Organization!</p>
+			
+		</div>
+	</div>
+</div>
+
+<%@ include file = "include/footer.jsp" %>
